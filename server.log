@@ -1,0 +1,5 @@
+
+> blind-spot@2.0.0 start
+> tsx server/index.ts
+
+Blind Spot server listening on port 8080
